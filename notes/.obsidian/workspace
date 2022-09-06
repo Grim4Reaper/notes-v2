@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "b6985d2d62087362",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/001f_Science/Physics/001 The Atom.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d1fc3ab5c9175ca",
+  "active": "b6985d2d62087362",
   "lastOpenFiles": [
+    "001_Notes/001f_Science/Physics/001 The Atom.md",
+    "conflict-files-obsidian-git.md",
     "001_Notes/001f_Science/Assessment Feedback.md",
     "Assessments.md",
-    "001_Notes/001f_Science/Physics/001 The Atom.md",
     "000_Files/000a_courseoutlines/YR 10 Science Sem 2. Energy and Sustainability SOLO Objectives 2022.pdf",
     "001_Notes/001f_Science/Chemistry/007 Energy Transfer.md",
     "001_Notes/001d_Literature/001 Context of Production + Reception.md",
     "001_Notes/001f_Science/Chemistry/006 Combustion Reactions.md",
     "001_Notes/001f_Science/Chemistry/005 Hydrocarbons.md",
-    "001_Notes/001f_Science/Chemistry/004 Fractional Distillation.md",
-    "001_Notes/001f_Science/Chemistry/003 Greenhouse Gases.md"
+    "001_Notes/001f_Science/Chemistry/004 Fractional Distillation.md"
   ]
 }
