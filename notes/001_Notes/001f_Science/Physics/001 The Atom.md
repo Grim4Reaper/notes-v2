@@ -16,4 +16,4 @@ Protons repel each other, so the strong nuclear force can only hold a nucleus to
 The numbers of protons and neutrons need to be just right.
 Some nuclei are naturally unstable, and break apart, emitting particles and/or energy.
 
-x
+xa
