@@ -1,0 +1,17 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "rgba(14, 210, 247, 0.5)",
+      "directory": "001_Notes/001b_Calendar"
+    },
+    {
+      "type": "local",
+      "color": "#1e00ff",
+      "directory": "002_PersonalNotes/002b_WeeklyNotes"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": false,
+  "firstDay": 0
+}

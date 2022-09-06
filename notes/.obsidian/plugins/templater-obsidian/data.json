@@ -1,0 +1,29 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "001_Notes/001a_Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "001_Notes/001a_Templates/Weekly Note Template.md",
+    "001_Notes/001a_Templates/Daily Note Template.md",
+    "001_Notes/001a_Templates/General Template.md"
+  ],
+  "startup_templates": []
+}
