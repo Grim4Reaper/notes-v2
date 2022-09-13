@@ -3,6 +3,6 @@
 
 Nuclear Equations always show:
 - Mass number
-- Nuclear charge
+- Nuclear charge (atomic number)
 - Chemical symbol
 
