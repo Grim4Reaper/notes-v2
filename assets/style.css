@@ -138,6 +138,7 @@ small {font-size: 0.8em;}
 }
 
 .backlink {
+    
     width: fit-content;
     position: relative;
 }
@@ -148,4 +149,8 @@ small {font-size: 0.8em;}
 
 .backlink:hover .backlink__preview {
     display: block;
+}
+
+.icon {
+    border-radius: 50%;
 }
