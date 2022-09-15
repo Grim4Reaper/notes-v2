@@ -17,4 +17,7 @@ To split a nucleus back into nucleons, you have to put the binding energy back i
 Mass defect and binding energy are related by Einstein's famous equation:
 E = mc<sup>2</sup>
 
+### Energy From Nuclear Reactions
+Energy is released in a nuclear reaction when the binding energy of the products is greater than the binding energy of the reactants.
+
 
