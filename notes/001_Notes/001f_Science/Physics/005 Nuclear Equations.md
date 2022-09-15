@@ -18,4 +18,6 @@ $\ce{^16_7N -> ^16_8O + ^0_-1e}$
 
 ### Gamma Decay
 - Doesn't involve the emission of particles, just energy
-$\ce{^238_92U -> ^234_90P + \gamma}$
+$\ce{^22_10Ne^* -> ^22_10Ne + ^0_0\gamma}$
+
+
