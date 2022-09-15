@@ -16,3 +16,6 @@ $\ce{^238_92U -> ^234_90P + ^4_2He}$
 - Involves the emission of an electron
 $\ce{^16_7N -> ^16_8O + ^0_-1e}$
 
+### Gamma Decay
+- Doesn't involve the emission of particles, just energy
+$\ce{^238_92U -> ^234_90P + \gamma}$
