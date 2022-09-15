@@ -14,4 +14,7 @@ mass defect = mass of nucleons - mass of nucleus
 When a nucleus is formed, the mass defect has been converted into binding energy.
 To split a nucleus back into nucleons, you have to put the binding energy back in, to replace the mass defect and split the nucleus into nucleus.
 
+Mass defect and binding energy are related by Einstein's famous equation:
+E = mc<sup>2</sup>
+
 
