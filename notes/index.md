@@ -3,5 +3,5 @@ title: Subjects
 ---
 # Subjects
 
-### [[Science_Index|Science]]
+### [[001f_Science/Science_Index|Science]]
 

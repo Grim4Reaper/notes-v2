@@ -27,3 +27,9 @@ Splitting a heavier nucleus into smaller nuclei.
 Releases large amount of energy.
 Often involves release of gamma photons and free neutrons.
 
+## Fusion
+Joining two lighter nuclei to form one heavier nucleus.
+Releases a massive amount of energy.
+
+Requires a huge amount of energy to overcome the electrostatic repulsion between nuclei - very high temperature required.
+
