@@ -1,5 +1,5 @@
 # Exothermic and Endothermic Reactions
-[[Science Index|Index]]
+[[Science_Index|Index]]
 
 
 # Enthalpy

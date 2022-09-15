@@ -1,5 +1,5 @@
 # Greenhouse Effect
-[[Science Index|Index]]
+[[Science_Index|Index]]
 Topics: [[003 Greenhouse Gases#Greenhouse Effect|The Greenhouse Effect]], [[003 Greenhouse Gases#Greenhouse Gases|Greenhouse Gases]]
 
 ## The Greenhouse Effect
