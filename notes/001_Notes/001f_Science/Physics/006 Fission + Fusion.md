@@ -33,5 +33,5 @@ Releases a massive amount of energy.
 
 Requires a huge amount of energy to overcome the electrostatic repulsion between nuclei - very high temperature required.
 
-### Q's
+
 
