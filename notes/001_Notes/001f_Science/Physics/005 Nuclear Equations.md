@@ -9,9 +9,10 @@ Nuclear Equations always show:
 
 ### Alpha Decay
 - Involves the emission of helium nuclei
-$\ce{^{238}_{92}U -> ^31_15P + ^1_0n}$
+$\ce{^238_92U -> ^234_90P + ^4_2He}$
 
 
-
-$\ce{^4_2He + ^27_13Al -> ^31_15P -> ^30_15P + ^1_0n}$
+### Beta Decay
+- Involves the emission of an electron
+$\ce{^16_7N -> ^16_8O + ^0_-1e}$
 
