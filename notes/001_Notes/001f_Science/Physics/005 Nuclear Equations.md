@@ -1,5 +1,5 @@
 # Nuclear Equations
-
+[[Science_Index|Index]]
 
 Nuclear Equations always show:
 - Mass number
@@ -7,3 +7,4 @@ Nuclear Equations always show:
 - Chemical symbol
 
 
+$$$$

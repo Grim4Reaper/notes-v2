@@ -1,5 +1,5 @@
 # The Atom
-
+[[Science_Index|Index]]
 
 ## Isotopes
 ***Atoms with the same number of protons but different numbers of neutrons.***

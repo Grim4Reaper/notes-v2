@@ -21,3 +21,9 @@ E = mc<sup>2</sup>
 Energy is released in a nuclear reaction when the binding energy of the products is greater than the binding energy of the reactants.
 
 
+## Fission
+Splitting a heavier nucleus into smaller nuclei.
+
+Releases large amount of energy.
+Often involves release of gamma photons and free neutrons.
+
