@@ -21,6 +21,6 @@ $\ce{^16_7N -> ^16_8O + ^0_-1e}$
 $\ce{^22_10Ne^* -> ^22_10Ne + ^0_0\gamma}$
 
 ### Fission
-
+- (Splitting of nuclei)
 
 
