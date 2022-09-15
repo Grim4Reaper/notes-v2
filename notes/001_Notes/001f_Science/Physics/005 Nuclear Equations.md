@@ -6,3 +6,4 @@ Nuclear Equations always show:
 - Nuclear charge (atomic number)
 - Chemical symbol
 
+

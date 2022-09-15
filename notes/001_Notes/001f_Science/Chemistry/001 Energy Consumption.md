@@ -1,5 +1,5 @@
 # Energy Consumption
-[[000 Science|Index]]
+[[Science Index|Index]]
 Topics: [[001 Energy Consumption#What is energy|What is energy?]]
 
 
