@@ -1,6 +1,7 @@
 ---
-title: Econs Index
+title: Economics Index
 ---
 # Index
-[[Index|Subjects]]
+[[Index|Back To Subjects]]
 
+I still have to transfer my notes to Obsidian for Econs.
