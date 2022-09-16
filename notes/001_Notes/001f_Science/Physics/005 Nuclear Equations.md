@@ -1,3 +1,6 @@
+---
+title: Nuclear Equations
+---
 # Nuclear Equations
 [[Science_Index|Index]]
 

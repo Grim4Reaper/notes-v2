@@ -1,3 +1,6 @@
+---
+title: The Atom
+---
 # The Atom
 [[Science_Index|Index]]
 
