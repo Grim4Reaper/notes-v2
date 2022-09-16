@@ -1,7 +1,6 @@
 ---
 title: Science Index
 ---
-
 # Index
 [[Index|Back To Subjects]]
 
