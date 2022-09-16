@@ -1,7 +1,5 @@
 # Making Oil Useful
 [[Science_Index|Index]]
-Topics: [[002 Fossil Fuels#Crude Oil|Crude Oil]]
-
 
 ## Crude Oil
 Many compounds in crude oil only contain the elements carbon and hydrogen.
