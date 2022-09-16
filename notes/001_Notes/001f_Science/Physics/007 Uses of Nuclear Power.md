@@ -19,19 +19,20 @@ Control rods made of boron absorb excess neutrons to prevent chain reactions get
 Nuclear weapons are uncontrolled chain reactions.
 
 **What was Einstein's role in the development of nuclear weapons?**
-Urged the US government to develop nuclear weapons.
+	Urged the US government to develop nuclear weapons.
+	Contributed to understanding the physics behind it
 
 **What was the Manhattan Project?**
-It was the USA's project to develop an atomic bomb during the 1930s and 40s.
+	It was the USA's project to develop an atomic bomb during the 1930s and 40s.
 
 **Why did Truman choose to drop atomic bombs?**
-To end the war in the Pacific, justify the monumental cost of the program, as a warning to all current and future enemies.
+	To end the war in the Pacific, justify the monumental cost of the program, as a warning to all current and future enemies.
 
 **How did the cold war lead us to Hydrogen bombs?**
-
+	
 
 **What should we do about nuclear weapons now?**
-
+	
 
 
 
