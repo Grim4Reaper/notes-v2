@@ -18,6 +18,22 @@ Control rods made of boron absorb excess neutrons to prevent chain reactions get
 ## Nuclear Weapons
 Nuclear weapons are uncontrolled chain reactions.
 
+**What was Einstein's role in the development of nuclear weapons?**
+
+
+**What was the Manhattan Project?**
+It was the USA's project to develop an atomic bomb during the 1930s and 40s.
+
+**Why did Truman choose to drop atomic bombs?**
+
+
+**How did the cold war lead us to Hydrogen bombs?**
+
+
+**What should we do about nuclear weapons now?**
+
+
+
 
 
 
