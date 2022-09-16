@@ -23,6 +23,7 @@ Please note that 002-004 notes have not been finished.
 - [[001_notes/001f_science/Physics/004|004]]
 - [[001_notes/001f_science/Physics/005 Nuclear Equations|005 Nuclear Equations]]
 - [[001_notes/001f_science/Physics/006 Fission + Fusion|006 Fission + Fusion]]
+- [[001_notes/001f_science/Physics/007 Uses of Nuclear Power|007 Uses of Nuclear Power]]
 
 
 

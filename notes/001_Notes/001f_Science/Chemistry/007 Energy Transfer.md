@@ -1,5 +1,8 @@
+---
+title: Energy Transfer
+---
 # Exothermic and Endothermic Reactions
-[[Science_Index|Index]]
+[[001_notes/001f_science/science_index|Index]]
 
 
 # Enthalpy
