@@ -18,7 +18,7 @@ title: Science Index
 
 ## Physics
 - [[001 The Atom]]
-- 002-004 
+- 002-004 notes have not been finished.
 - [[005 Nuclear Equations]]
 - [[006 Fission + Fusion]]
 
