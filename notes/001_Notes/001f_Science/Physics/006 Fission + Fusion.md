@@ -1,5 +1,5 @@
 ---
-title: Fission + F
+title: Fission + Fusion
 ---
 # Fission + Fusion
 [[Science_Index|Index]]
