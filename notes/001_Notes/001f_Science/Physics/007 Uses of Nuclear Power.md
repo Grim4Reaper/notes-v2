@@ -15,6 +15,9 @@ For nuclear fission to start in a nuclear reactor, a uranium-235 atom must absor
 
 Control rods made of boron absorb excess neutrons to prevent chain reactions getting out of control.
 
+## Nuclear Weapons
+Nuclear weapons are uncontrolled chain reactions.
+
 
 
 
