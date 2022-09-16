@@ -10,5 +10,12 @@ These fission neutrons can go on to cause further fission events, which will pro
 
 The smallest amount of mass needed to sustain a chain reaction is called a critical mass.
 
+### How are neutrons controlled?
+For nuclear fission to start in a nuclear reactor, a uranium-235 atom must absorb a low speed neutron. The reactor's graphite core slows down the released neutrons so the chain reaction can keep going.
+
+Control rods made of boron absorb excess neutrons to prevent chain reactions getting out of control.
+
+
+
 
 

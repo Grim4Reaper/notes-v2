@@ -6,5 +6,7 @@
   "foldIndent": true,
   "showLineNumber": true,
   "legacyEditor": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
 }
