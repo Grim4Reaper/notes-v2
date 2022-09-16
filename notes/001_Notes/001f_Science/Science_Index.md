@@ -6,7 +6,7 @@ title: Science Index
 
 ## Chemistry
 
-- [[001 Energy Consumption]]
+- [[|001 Energy Consumption]]
 - [[002 Fossil Fuels]]
 - [[003 Greenhouse Gases]]
 - [[004 Fractional Distillation]]
