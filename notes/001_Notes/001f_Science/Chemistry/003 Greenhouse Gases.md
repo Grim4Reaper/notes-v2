@@ -1,5 +1,8 @@
+---
+title: Greenhouse Effect
+---
 # Greenhouse Effect
-[[Science_Index|Index]]
+[[001_notes/001f_science/science_index|Index]]
 
 ## The Greenhouse Effect
 ![[001 The Greenhouse Effect.png|500]]

@@ -1,5 +1,8 @@
+---
+title: Energy Consumption
+---
 # Energy Consumption
-[[Science_Index|Index]]
+[[001_notes/001f_science/science_index|Index]]
 
 
 ## What is energy?

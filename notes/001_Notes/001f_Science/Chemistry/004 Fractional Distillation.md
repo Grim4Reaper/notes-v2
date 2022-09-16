@@ -1,5 +1,8 @@
+---
+title: Fractional Distillation
+---
 # Factional Distillation
-[[Science_Index|Index]]
+[[001_notes/001f_science/science_index|Index]]
 
 Crude oil is a mixture composed mainly of straight and branched chain **alkanes**
 The first step is to separate compounds in the oil into groups called fractions
