@@ -2,7 +2,7 @@
 title: The Atom
 ---
 # The Atom
-[[Science Index|Index]]
+[[001_Notes/001f_Science/Science Index|Index]]
 
 ## Isotopes
 ***Atoms with the same number of protons but different numbers of neutrons.***

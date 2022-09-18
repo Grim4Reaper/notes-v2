@@ -2,7 +2,7 @@
 title: Uses of Nuclear Power
 ---
 # Uses of Nuclear Power
-[[Science Index|Index]]
+[[001_Notes/001f_Science/Science Index|Index]]
 
 ## Chain Reactions
 When a uranium-235 nucleus undergoes induced fission after collision with a neutron, it breaks up into two smaller nuclei and two neutrons. These are called fission neutrons.

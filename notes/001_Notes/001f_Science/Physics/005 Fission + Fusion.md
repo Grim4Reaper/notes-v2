@@ -2,7 +2,7 @@
 title: Fission + Fusion
 ---
 # Fission + Fusion
-[[Science Index|Index]]
+[[001_Notes/001f_Science/Science Index|Index]]
 
 ### Mass Defect
 - The difference in mass between a nucleus and the nucleons its made from.

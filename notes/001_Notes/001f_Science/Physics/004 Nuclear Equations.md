@@ -2,7 +2,7 @@
 title: Nuclear Equations
 ---
 # Nuclear Equations
-[[Science Index|Index]]
+[[001_Notes/001f_Science/Science Index|Index]]
 
 Nuclear Equations always show:
 - Mass number
@@ -31,4 +31,5 @@ $\ce{^235_92U + ^1_0n -> ^141_56Ba + ^92_36Kr + 3^1_0n}$
 ### Fusion
 - (Combining of nuclei)
 $\ce{2^2_1H -> ^3_2He + ^1_0n}$
+$\ce{^2_1H + ^3_1H -> ^4_2He + ^1_0n}$
 

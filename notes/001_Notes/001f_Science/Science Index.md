@@ -22,7 +22,7 @@ Please note that notes 002 + 003 have not been finished.
 - [[001_notes/001f_science/Physics/003 Half Life|003 Half Life]]
 - [[001_notes/001f_science/Physics/004 Nuclear Equations|004 Nuclear Equations]]
 - [[001_notes/001f_science/Physics/005 Fission + Fusion|005 Fission + Fusion]]
-- [[001_notes/001f_science/Physics/006 Uses of Nuclear Power|006 Uses of Nuclear Power]]
+- [[006 Uses of Nuclear Power|006 Uses of Nuclear Power]]
 
 
 
