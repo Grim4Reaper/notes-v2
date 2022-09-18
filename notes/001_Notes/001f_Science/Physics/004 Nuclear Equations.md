@@ -30,5 +30,5 @@ $\ce{^235_92U + ^1_0n -> ^141_56Ba + ^92_36Kr + 3^1_0n}$
 
 ### Fusion
 - (Combining of nuclei)
-
+$\ce{2^2_1H -> ^3_2He + ^1_0n}$
 
