@@ -25,7 +25,7 @@ $\ce{^22_10Ne^* -> ^22_10Ne + ^0_0\gamma}$
 
 ### Fission
 - (Splitting of nuclei)
-
+$\ce{^235_92U + ^1_0n -> ^141_56Ba + ^92_36Kr + 3^1_0n}$
 
 
 ### Fusion
