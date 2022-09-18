@@ -2,6 +2,6 @@
 title: INCOMPLETE
 ---
 # INCOMPLETE
-[[001_notes/001f_science/science_index|Index]]
+[[Science Index|Index]]
 
 **This page is incomplete. Please try again later.**

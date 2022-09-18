@@ -2,7 +2,7 @@
 title: Energy Transfer
 ---
 # Exothermic and Endothermic Reactions
-[[001_notes/001f_science/science_index|Index]]
+[[Science Index|Index]]
 
 
 # Enthalpy

@@ -2,7 +2,7 @@
 title: Energy Consumption
 ---
 # Energy Consumption
-[[001_notes/001f_science/science_index|Index]]
+[[Science Index|Index]]
 
 
 ## What is energy?

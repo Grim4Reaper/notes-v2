@@ -2,7 +2,7 @@
 title: Fission + Fusion
 ---
 # Fission + Fusion
-[[001_notes/001f_science/science_index|Index]]
+[[Science Index|Index]]
 
 ### Mass Defect
 - The difference in mass between a nucleus and the nucleons its made from.
@@ -29,12 +29,13 @@ Splitting a heavier nucleus into smaller nuclei.
 
 Releases large amount of energy.
 Often involves release of gamma photons and free neutrons.
+[[001_Notes/001f_Science/Physics/004 Nuclear Equations#Fission|Fission Equations]]
 
 ## Fusion
 Joining two lighter nuclei to form one heavier nucleus.
 Releases a massive amount of energy.
 
 Requires a huge amount of energy to overcome the electrostatic repulsion between nuclei - very high temperature required.
-
+[[001_Notes/001f_Science/Physics/004 Nuclear Equations#Fusion|Fusion Equations]]
 
 

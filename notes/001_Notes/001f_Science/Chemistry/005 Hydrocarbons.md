@@ -2,7 +2,7 @@
 title: Hydrocarbons
 ---
 # Hydrocarbons
-[[001_notes/001f_science/science_index|Index]]
+[[Science Index|Index]]
 
 
 An organic compound is based on carbon atoms, usually contains hydrogen too, and may also contain other non-metal atoms such as oxygen, nitrogen & sulfur. Hydrocarbons are organic compounds.

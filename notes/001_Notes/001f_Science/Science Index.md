@@ -16,14 +16,13 @@ title: Science Index
 
 
 ## Physics
-Please note that 002-004 notes have not been finished.
+Please note that notes 002 + 003 have not been finished.
 - [[001_notes/001f_science/Physics/001 The Atom|001 The Atom]]
-- [[001_notes/001f_science/Physics/002|002]]
-- [[001_notes/001f_science/Physics/003|003]]
-- [[001_notes/001f_science/Physics/004|004]]
-- [[001_notes/001f_science/Physics/005 Nuclear Equations|005 Nuclear Equations]]
-- [[001_notes/001f_science/Physics/006 Fission + Fusion|006 Fission + Fusion]]
-- [[001_notes/001f_science/Physics/007 Uses of Nuclear Power|007 Uses of Nuclear Power]]
+- [[002 Types of Radiation|002 Types of Radiation]]
+- [[003 Half Life|003 Half Life]]
+- [[004 Nuclear Equations|004 Nuclear Equations]]
+- [[005 Fission + Fusion|005 Fission + Fusion]]
+- [[006 Uses of Nuclear Power|006 Uses of Nuclear Power]]
 
 
 

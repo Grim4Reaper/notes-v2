@@ -2,7 +2,7 @@
 title: Greenhouse Effect
 ---
 # Greenhouse Effect
-[[001_notes/001f_science/science_index|Index]]
+[[Science Index|Index]]
 
 ## The Greenhouse Effect
 ![[001 The Greenhouse Effect.png|500]]

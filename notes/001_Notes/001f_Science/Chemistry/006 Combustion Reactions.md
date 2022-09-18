@@ -2,7 +2,7 @@
 title: Combustion Reactions
 ---
 # Combustion Reactions
-[[001_notes/001f_science/science_index|Index]]
+[[Science Index|Index]]
 
 A combustion reaction is a rapid reaction between a substance and oxygen that releases heat and light energy.
 
