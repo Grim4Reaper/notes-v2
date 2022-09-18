@@ -27,6 +27,7 @@ $\ce{^22_10Ne^* -> ^22_10Ne + ^0_0\gamma}$
 - (Splitting of nuclei)
 
 
+
 ### Fusion
 - (Combining of nuclei)
 
