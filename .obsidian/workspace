@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "1f73064a5825be79",
+    "id": "1d75312050da2005",
     "type": "split",
     "children": [
       {
-        "id": "903a97b70644cf85",
+        "id": "b7212816ef8b85ed",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001_Notes/001f_Science/Science Index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6c85d804ef9eb78c",
+    "id": "8412d248eb9ba481",
     "type": "split",
     "children": [
       {
-        "id": "7bc20f95d7197139",
+        "id": "b006b569647064f3",
         "type": "tabs",
         "children": [
           {
-            "id": "6d1fc3ab5c9175ca",
+            "id": "760b3c896918c97b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +31,12 @@
             }
           },
           {
-            "id": "e85b9102d2336130",
+            "id": "5d00412a0ecc4e3f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Assessment",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,36 +44,73 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "94747c27d831ed07",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 320
+    "width": 300
   },
   "right": {
-    "id": "b627013593b17492",
+    "id": "55d29bacd0bf20d9",
     "type": "split",
     "children": [
       {
-        "id": "c79d8f178de7dc52",
+        "id": "bc531bae562fee15",
         "type": "tabs",
         "children": [
           {
-            "id": "0f8a4c8d899b7766",
+            "id": "6685e0a9b44e69b4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/001f_Science/Science Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "f68f1993d15b137c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18693979a6708018",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc05fbb29ef85a8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ]
@@ -87,17 +120,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "903a97b70644cf85",
-  "lastOpenFiles": [
-    "001_Notes/001f_Science/Physics/004 Nuclear Equations.md",
-    "001_Notes/001f_Science/Physics/005 Fission + Fusion.md",
-    "001_Notes/001f_Science/Physics/006 Uses of Nuclear Power.md",
-    "001_Notes/001f_Science/Science Index.md",
-    "001_Notes/001f_Science/Chemistry/001 Energy Consumption.md",
-    "Index.md",
-    "001_Notes/001f_Science/Physics/003 Half Life.md",
-    "001_Notes/001f_Science/Physics/002 Types of Radiation.md",
-    "001_Notes/001f_Science/AssessmentFeedback.md",
-    "001_Notes/001f_Science/Physics/004.md"
-  ]
+  "active": "b7212816ef8b85ed",
+  "lastOpenFiles": []
 }
