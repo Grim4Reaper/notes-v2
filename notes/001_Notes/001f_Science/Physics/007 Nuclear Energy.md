@@ -1,7 +1,6 @@
 # Nuclear Energy
 [[001_Notes/001f_Science/Science Index|Index]]
 
-
 ## Nuclear Fusion Energy
 **Nuclear fusion** is the process which powers the Sun and other stars.
 Sun uses lots of heat and pressure to undergo fusion.
