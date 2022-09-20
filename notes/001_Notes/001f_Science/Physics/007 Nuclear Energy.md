@@ -24,4 +24,4 @@ $\ce{^2_1H + ^3_1H -> ^4_2He + ^1_0n}$
 - Large investment
 - 
 
-Australia should invest in nuclear fus
+Australia should invest in nuclear fusion energy.
