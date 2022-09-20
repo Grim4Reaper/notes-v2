@@ -10,3 +10,14 @@ $\ce{^2_1H + ^3_1H -> ^4_2He + ^1_0n}$
 [[001_Notes/001f_Science/Physics/004 Nuclear Equations#Fusion|More example equations here!]]
 
 
+### Advantages:
+- Abundant fuels
+- Small amounts of fuel
+- Clean
+- Safe
+- Less radioactive waste
+- No weapons material produces
+
+
+
+
