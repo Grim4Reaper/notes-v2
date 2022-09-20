@@ -17,10 +17,11 @@ $\ce{^2_1H + ^3_1H -> ^4_2He + ^1_0n}$
 - Safe
 - Less radioactive waste
 - No weapons material produces
+- Cheap to run
 
 ### Disadvantages
 - Very expensive
 - Large investment
 - 
 
-
+Australia should invest in nuclear fus
