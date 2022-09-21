@@ -24,6 +24,7 @@ Please note that notes 002 + 003 have not been finished.
 - [[001_notes/001f_science/Physics/005 Fission + Fusion|005 Fission + Fusion]]
 - [[001_notes/001f_science/Physics/006 Uses of Nuclear Power|006 Uses of Nuclear Power]]
 - [[001_notes/001f_science/Physics/007 Nuclear Energy|007 Nuclear Energy]]
+- [[001_Notes/001f_Science/Physics/008 Nuclear Power Plants|008 Nuclear Power Plants]]
 
 
 

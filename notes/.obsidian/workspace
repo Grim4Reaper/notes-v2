@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001_Notes/001f_Science/Physics/002 Types of Radiation.md",
+            "file": "001_Notes/001f_Science/Physics/008 Nuclear Power Plants.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/001f_Science/Physics/002 Types of Radiation.md",
+                "file": "001_Notes/001f_Science/Physics/008 Nuclear Power Plants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +90,14 @@
   "active": "b8c795fef972ed16",
   "lastOpenFiles": [
     "001_Notes/001f_Science/Science Index.md",
+    "001_Notes/001f_Science/Physics/008 Nuclear Power Plants.md",
     "001_Notes/001f_Science/Physics/007 Nuclear Energy.md",
+    "001_Notes/001f_Science/Physics/006 Uses of Nuclear Power.md",
+    "001_Notes/001f_Science/Physics/002 Types of Radiation.md",
     "001_Notes/001f_Science/Physics/004 Nuclear Equations.md",
     "001_Notes/001f_Science/Physics/005 Fission + Fusion.md",
-    "001_Notes/001f_Science/Physics/006 Uses of Nuclear Power.md",
     "001_Notes/001d_Literature/002 Scene Stuff.md",
     "001_Notes/001d_Literature/001 Context of Production + Reception.md",
-    "001_Notes/001f_Science/Physics/003 Half Life.md",
-    "001_Notes/001f_Science/Physics/002 Types of Radiation.md",
-    "001_Notes/001f_Science/Physics/001 The Atom.md"
+    "001_Notes/001f_Science/Physics/003 Half Life.md"
   ]
 }
