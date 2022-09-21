@@ -16,3 +16,14 @@ When handling radioactive material, the user should:
 - minimize exposure time
 
 
+Pros
+- Nuclear energy saves lives
+- Cleaner
+- New technology could reduce impact of nuclear waste
+
+Cons
+- Can produce nuclear weapons from waste products
+- Accidents can cause severe damage to the environment
+- Nuclear waste is toxic
+
+
