@@ -22,3 +22,15 @@ Prokaryotes are any organisms - usually unicellular - whose DNA is suspended fre
 
 ## Bacteria
 
+Bacteria can reproduce quickly and compete with host cells for space and nutrition.
+Most are relatively harmless and some may even form mutualistic relationships with hosts.
+
+Can cause disease by:
+- Damaging host tissues which prevents normal function
+- Producing exotoxins while metabolising
+- Releasing endotoxins when destroyed
+As the toxins retain their destructive capacity beyond bacterial death, they are often the cause of food poisoning.
+
+
+
+
