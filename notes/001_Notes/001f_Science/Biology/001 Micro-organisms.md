@@ -33,5 +33,7 @@ As the toxins retain their destructive capacity beyond bacterial death, they are
 
 The capsule protects bacteria from viruses, or attack from a host organism's immune system.
 
+Bacterial cells often contain several plasmids - small continuous loops of DNA.
+Plasmids are replicated independently of a bacterium's genophore.
 
 
