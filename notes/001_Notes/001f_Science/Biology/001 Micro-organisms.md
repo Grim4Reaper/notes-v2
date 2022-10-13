@@ -31,6 +31,7 @@ Can cause disease by:
 - Releasing endotoxins when destroyed
 As the toxins retain their destructive capacity beyond bacterial death, they are often the cause of food poisoning.
 
+The capsule protects bacteria from viruses, or attack from a host organism's immune system.
 
 
 
