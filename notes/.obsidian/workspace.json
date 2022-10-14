@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "1f73064a5825be79",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c33ae583a1ad69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dac25f6dbc03979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_Notes/001f_Science/Science Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff2b1bb0608ac5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_Notes/001f_Science/Biology/001 Micro-organisms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c85d804ef9eb78c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bc20f95d7197139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d1fc3ab5c9175ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e85b9102d2336130",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Assessment",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320
+  },
+  "right": {
+    "id": "b627013593b17492",
+    "type": "split",
+    "children": [
+      {
+        "id": "c79d8f178de7dc52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f8a4c8d899b7766",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001_Notes/001f_Science/Biology/001 Micro-organisms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ff2b1bb0608ac5e2",
+  "lastOpenFiles": [
+    "001_Notes/001f_Science/Science Index.md",
+    "001_Notes/001f_Science/Biology/001 Micro-organisms.md",
+    "001_Notes/00f_Science/Science Index.md",
+    "001_Notes/001f_Science/Chemistry/001 Energy Consumption.md",
+    "Index.md",
+    "001_Notes/001f_Science/AssessmentFeedback.md",
+    "002_PersonalNotes/War Thunder Screenshots.md",
+    "001_Notes/001f_Science/Physics/004 Nuclear Equations.md",
+    "001_Notes/001d_Literature/002 Scene Stuff Act 2.md",
+    "001_Notes/001f_Science/Physics/007 Nuclear Energy.md"
+  ]
+}
