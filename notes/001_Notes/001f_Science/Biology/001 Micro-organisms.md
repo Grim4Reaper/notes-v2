@@ -37,3 +37,7 @@ Bacterial cells often contain several plasmids - small continuous loops of DNA.
 Plasmids are replicated independently of a bacterium's genophore.
 
 
+## Viruses
+Viruses are 
+
+
