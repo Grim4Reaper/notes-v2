@@ -1,7 +1,7 @@
 ---
-title: Micro-organisms
+title: Micro-organisms - IN PROGRESS
 ---
-# Micro-organisms
+# Micro-organisms - IN PROGRESS
 [[001_Notes/001f_Science/Science Index|Index]]
 
 
@@ -38,6 +38,15 @@ Plasmids are replicated independently of a bacterium's genophore.
 
 
 ## Viruses
-Viruses are 
+Viruses are non-cellular pathogens, they are not living.
+
+They are very simple structures compared to cells - made from nucleic acids and a protein coat, know as a capsid.
+The genetic material can be either DNA or RNA, often have an envelope of membrane around the outside.
+
+![[001 Virus Diagram.png|500]]
+
+
+
+
 
 
