@@ -43,9 +43,9 @@ Viruses are non-cellular pathogens, they are not living.
 They are very simple structures compared to cells - made from nucleic acids and a protein coat, know as a capsid.
 The genetic material can be either DNA or RNA, often have an envelope of membrane around the outside.
 
-![[001 Virus Diagram.png|500]]
+![[001a Virus Diagram.png|500]]
 
-
+![[001b Types of Viruses.png|500]]
 
 
 
