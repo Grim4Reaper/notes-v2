@@ -47,6 +47,11 @@ The genetic material can be either DNA or RNA, often have an envelope of membran
 
 ![[001b Types of Viruses.png|500]]
 
+![[001c Replication of Viruses.png|500]]
+
+
+
+
 
 
 
