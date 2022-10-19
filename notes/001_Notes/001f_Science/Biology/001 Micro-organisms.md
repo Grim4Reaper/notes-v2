@@ -50,5 +50,10 @@ The genetic material can be either DNA or RNA, often have an envelope of membran
 ![[001c Replication of Viruses.png|500]]
 
 
+### Influenza A
 
-         
+
+
+
+
+
