@@ -51,7 +51,4 @@ The genetic material can be either DNA or RNA, often have an envelope of membran
 
 
 
-
-
-
-
+         
