@@ -76,7 +76,10 @@ Protists include:
 Parasitism is a close and permanent association between two organisms in which one benefits and the other is harmed.
 
 ### Malaria
+Malaria is a disease caused by a protozoan parasite. It is transmitted by a vector - the Anopheles mosquitos.
+The symptoms of malaria include shivering, fever, sweating, joint pain, vomiting and anaemia.
 
+They typically occur cyclically every two to three days.
 
 
 
