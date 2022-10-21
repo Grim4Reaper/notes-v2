@@ -63,7 +63,20 @@ Protists can be unicellular or multicellular.
 Fungi are not photosynthetic, and their cell walls are usually made out of chitin rather than cellulose. (E.g. Mould and yeast)
 
 Many fungal diseases are external, causing irritation and inflammation of the skin.
-Candidiasis is a fungal infection caused by a yeast called Candida albicans. Candida n
+Candidiasis is a fungal infection caused by a yeast called Candida albicans. Candida normally lives on the skin and inside the body.
+
+
+Protists include:
+- Algea
+- Protozoa
+- Slime moulds
+
+
+## Parasitism
+Parasitism is a close and permanent association between two organisms in which one benefits and the other is harmed.
+
+### Malaria
+
 
 
 
