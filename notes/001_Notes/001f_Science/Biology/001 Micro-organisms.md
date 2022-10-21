@@ -60,7 +60,10 @@ Both fungi and protists are eukaryotic organisms.
 Protists are unicellular eukaryotes that are not plants, animals, or fungi.
 Protists can be unicellular or multicellular.
 
-Fungi are not photosynthetic, and their cell walls are usually made out of chitin rather than cellulose.
+Fungi are not photosynthetic, and their cell walls are usually made out of chitin rather than cellulose. (E.g. Mould and yeast)
+
+Many fungal diseases are external, causing irritation and inflammation of the skin.
+Candidiasis is a fungal infection caused by a yeast called Candida albicans. Candida n
 
 
 
