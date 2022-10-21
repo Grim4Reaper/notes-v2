@@ -50,8 +50,14 @@ The genetic material can be either DNA or RNA, often have an envelope of membran
 ![[001c Replication of Viruses.png|500]]
 
 
-### Influenza A
 
+
+
+## Fungi and Protists
+
+Both fungi and protists are eukaryotic organisms.
+
+Protists are unicellular ua
 
 
 
