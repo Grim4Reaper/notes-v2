@@ -57,7 +57,10 @@ The genetic material can be either DNA or RNA, often have an envelope of membran
 
 Both fungi and protists are eukaryotic organisms.
 
-Protists are unicellular ua
+Protists are unicellular eukaryotes that are not plants, animals, or fungi.
+Protists can be unicellular or multicellular.
+
+Fungi are not photosynthetic, and their cell walls are usually made out of chitin rather than cellulose.
 
 
 
