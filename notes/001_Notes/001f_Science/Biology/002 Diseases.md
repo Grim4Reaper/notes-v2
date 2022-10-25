@@ -25,7 +25,7 @@ An infectious disease is a disease resulting from infection of a host organism b
 -------------------------------------
 | Term | Definition |
 | --- | --- |
-| Disease ||
+| Disease |A disease is a disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms or that affects a specific location and is not simply a direct result of physical injury.|
 | Disorder ||
 | Micro-organism |A micro-organism is an organism that can only be seen under a microscope.|
 | Pathogen |A pathogen is a micro-organism that can cause disease.|
