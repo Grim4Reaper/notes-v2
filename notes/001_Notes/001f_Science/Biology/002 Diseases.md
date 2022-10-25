@@ -16,6 +16,31 @@ Diseases can be classed in several ways:
 
 Many non-infectious diseases develop as a result of the interaction between a person's environment or lifestyle and their genes.
 
-A risk factor is anu
+A risk factor is anything that increases the chance of developing a disease.
+
+Risk factors are correlational with a disease, not necessarily causal.
+
+An infectious disease is a disease resulting from infection of a host organism by a pathogen.
+
+-------------------------------------
+| Term | Definition |
+| --- | --- |
+| Disease ||
+| Disorder | |
+| Micro-organism | |
+| Pathogen | |
+| Pathology | |
+| Host | |
+| Parasite | |
+| Infection | |
+| Contagious | |
+| Communicable | |
+| Virulence | |
+| Endemic | |
+| Epidemic | |
+| Pandemic | |
+| Outbreak | |
+
+
 
 
