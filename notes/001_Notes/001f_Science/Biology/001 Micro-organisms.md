@@ -1,7 +1,7 @@
 ---
-title: Micro-organisms - IN PROGRESS
+title: Micro-organisms
 ---
-# Micro-organisms - IN PROGRESS
+# Micro-organisms
 [[001_Notes/001f_Science/Science Index|Index]]
 
 

@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d765bd98e12b201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_Notes/001f_Science/Biology/002 Infectious Diseases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -114,6 +126,7 @@
   "active": "4b90f82c4d134edb",
   "lastOpenFiles": [
     "001_Notes/001f_Science/Science Index.md",
+    "001_Notes/001f_Science/Biology/002 Infectious Diseases.md",
     "001_Notes/001f_Science/Biology/001 Micro-organisms.md",
     "002_PersonalNotes/War Thunder Screenshots.md",
     "002_PersonalNotes/Images/Pasted image 20220922122707.png",
@@ -121,7 +134,6 @@
     "001_Notes/001f_Science/AssessmentFeedback.md",
     "001_Notes/001f_Science/Chemistry/007 Energy Transfer.md",
     "001_Notes/001f_Science/Chemistry/005 Hydrocarbons.md",
-    "001_Notes/001f_Science/Chemistry/002 Fossil Fuels.md",
-    "001_Notes/001f_Science/Biology/Images/001c Replication of Viruses.png"
+    "001_Notes/001f_Science/Chemistry/002 Fossil Fuels.md"
   ]
 }

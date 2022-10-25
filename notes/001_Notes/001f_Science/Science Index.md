@@ -28,6 +28,6 @@ Please note that notes 002 + 003 have not been finished.
 
 ## Biology
 - [[001_Notes/001f_Science/Biology/001 Micro-organisms|001 Micro-organisms]]
-- 
+- [[002 Infectious Diseases|002 Infectious Diseases]]
 
 
