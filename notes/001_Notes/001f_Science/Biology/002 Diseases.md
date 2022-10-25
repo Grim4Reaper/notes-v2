@@ -26,20 +26,20 @@ An infectious disease is a disease resulting from infection of a host organism b
 | Term | Definition |
 | --- | --- |
 | Disease ||
-| Disorder | |
-| Micro-organism | |
-| Pathogen | |
-| Pathology | |
-| Host | |
-| Parasite | |
-| Infection | |
-| Contagious | |
-| Communicable | |
-| Virulence | |
-| Endemic | |
-| Epidemic | |
-| Pandemic | |
-| Outbreak | |
+| Disorder ||
+| Micro-organism |A micro-organism is an organism that can only be seen under a microscope.|
+| Pathogen |A pathogen is a micro-organism that can cause disease.|
+| Pathology ||
+| Host ||
+| Parasite ||
+| Infection ||
+| Contagious ||
+| Communicable ||
+| Virulence ||
+| Endemic ||
+| Epidemic ||
+| Pandemic ||
+| Outbreak ||
 
 
 
