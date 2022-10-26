@@ -1,5 +1,5 @@
 ---
-title: Infectious Diseases
+title: Diseases
 ---
 # Diseases
 
