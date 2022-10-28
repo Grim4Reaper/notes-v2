@@ -42,19 +42,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "27fcf97d0bc1eaea",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +120,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27fcf97d0bc1eaea",
+  "active": "6d765bd98e12b201",
   "lastOpenFiles": [
     "001_Notes/001f_Science/Biology/001 Micro-organisms.md",
     "001_Notes/001f_Science/Biology/002 Diseases.md",
