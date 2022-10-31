@@ -67,7 +67,7 @@ Candidiasis is a fungal infection caused by a yeast called Candida albicans. Can
 
 
 Protists include:
-- Algea
+- Algae
 - Protozoa
 - Slime moulds
 
