@@ -15,4 +15,10 @@ Methods of disease transmission
 |  | Fomites |  |
 ![[003a Transmission.png]]
 
+| Preventative Method | How it works | Example of disease | School |
+| --- | --- | --- | --- |
+| Handwashing | Kills Pathogens | 
+
+
+
 
