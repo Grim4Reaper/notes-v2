@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "communityPluginSortOrder": "download",
+  "foldIndent": true,
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
+}
