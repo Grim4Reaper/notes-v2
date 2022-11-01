@@ -22,6 +22,8 @@ Risk factors are correlational with a disease, not necessarily causal.
 
 An infectious disease is a disease resulting from infection of a host organism by a pathogen.
 
+
+
 -------------------------------------
 | Term | Definition |
 | --- | --- |
