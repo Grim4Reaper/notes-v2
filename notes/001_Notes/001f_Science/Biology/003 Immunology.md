@@ -10,9 +10,9 @@ An immune response is a complex series of specific and non-specific processes in
 Methods of disease transmission
 | Direct | Indirect | Vectors |
 | --- | --- | --- |
-| x | x | x |
-| x | x | x |
-| x | x | x |
-| x | x | x |
+| Person to person | Fecal-oral | Insect Bite |
+| Droplets | Airborne |  |
+|  | Fomites |  |
+![[003a Transmission.png]]
 
 
