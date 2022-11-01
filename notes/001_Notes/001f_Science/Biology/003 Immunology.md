@@ -15,9 +15,27 @@ Methods of disease transmission
 |  | Fomites |  |
 ![[003a Transmission.png]]
 
-| Preventative Method | How it works | Example of disease | School |
-| --- | --- | --- | --- |
-| Handwashing | Kills Pathogens | 
+| External Defence | How it protects against infection |
+| --- | --- |
+| Skin | An impervious barrier | 
+| Ear | Cerumen inhibits bacterial growth |
+| Trachea and bronchi | Mucus layer traps micro-organisms |
+| Stomach |  |
+| Vagina |  |
+| Nasal cavity |  |
+| Mouth cavity |  |
+| Eyes |  |
+| Urethra |  |
+| Anus |  |
+
+
+A reflex is an automatic, involuntary response to a stimulus.
+
+The body uses protective reflexes to protect the body from infection. These include:
+- **Sneezing** – irritation in the nose causes forceful expulsion of air, carrying the irritant with it.
+- **Coughing** – irritation in the bronchi causes forceful expulsion of air from lungs, carrying the irritant up into the nose or mouth.
+- **Vomiting** – irritation in the stomach can cause contraction in the abdominal muscles to expel the stomach contents.
+- **Diarrhoea** – irritation in the intestines causes contraction intestinal wall muscles to expel bowel contents.
 
 
 
