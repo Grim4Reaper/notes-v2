@@ -68,7 +68,7 @@ The immune response involves many types of white blood cells, known as leukocyte
 5. Dead phagocytes and tissue fluid form pus.
 6. New cells are produced by mitosis, and the wound heals.
 
-![[Pasted image 20221102093519.png]]
+![[003c Fever.png|500]]
 
 
 
