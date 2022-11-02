@@ -50,10 +50,19 @@ The immune response involves many types of white blood cells, known as leukocyte
 
 
 
+## Non-specific immune response
+
+**Inflammation** is a response to tissue damage, it reduces the spread of pathogens and helps repair damaged tissue.
+
+**Phagocytosis**: organism that enter the body are attacked by **phagocytes**, which engulf the invading cells, and destroys them.
+
+**Fever** occurs as a response to infection. The body's thermostat is reset to a higher temperature by the **hypothalamus**, the higher temperature can inhibit the growth of some pathogens and can help the immune system fight the disease.
+
+![[003b Inflammation.png|500]]
 
 
 
 
 
-M - DNLOBE
+
 
