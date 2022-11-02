@@ -42,8 +42,13 @@ The immune response involves many types of white blood cells, known as leukocyte
 
 | Type of leukocyte | Sub-class | Overview of function |
 | --- | --- | --- |
-| Granulocytes: | Neutrophils |  |
-| x | Eosinophils | 
+| Granulocytes: | Neutrophils    | First responder but dies quickly |
+|               | Eosinophils    |  |
+|               | Basophils      | Causes allergic responses|
+| Monocytes     | Dendritic Cells|  |
+|               | Macrophages    |  |
+
+
 
 
 
