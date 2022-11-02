@@ -60,8 +60,15 @@ The immune response involves many types of white blood cells, known as leukocyte
 
 ![[003b Inflammation.png|500]]
 
+### Inflammation
+1. Tissue damage activates mast cells to release histamine and heparin into tissue fluid.
+2. Histamine increases blood flow to the area by vasodilation, making capillary walls more permeable. This causes heat, redness and swelling.
+3. Heparin prevents clotting in the immediate area, but a clot forms around that area, protecting nearby tissue.
+4. Complement proteins and other chemical messengers attract phagocytes (especially neutrophils) to consume pathogens.
+5. Dead phagocytes and tissue fluid form pus.
+6. New cells are produced by mitosis, and the wound heals.
 
-
+![[Pasted image 20221102093519.png]]
 
 
 
