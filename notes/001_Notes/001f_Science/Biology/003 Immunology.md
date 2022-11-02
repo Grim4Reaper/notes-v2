@@ -38,6 +38,14 @@ The body uses protective reflexes to protect the body from infection. These incl
 - **Diarrhoea** – irritation in the intestines causes contraction intestinal wall muscles to expel bowel contents.
 
 
+The immune response involves many types of white blood cells, known as leukocytes.
+
+| Type of leukocyte | Sub-class | Overview of function |
+| --- | --- | --- |
+| Granulocytes: | Neutrophils |  |
+| x | Eosinophils | 
+
+
 
 
 
