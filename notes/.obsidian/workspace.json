@@ -54,6 +54,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46b4e474a8b9f839",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "001_Notes/001f_Science/Biology/Images/003d Phagocytosis.png"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -134,15 +144,15 @@
   },
   "active": "0fc0be9ed32b7f7f",
   "lastOpenFiles": [
-    "001_Notes/001f_Science/Biology/Images/003c Fever.png",
+    "001_Notes/001f_Science/Biology/Images/003d Phagocytosis.png",
     "001_Notes/001f_Science/Biology/003 Immunology.md",
+    "001_Notes/001f_Science/Biology/Images/003c Fever.png",
     "001_Notes/001f_Science/Biology/Images/003b Inflammation.png",
     "001_Notes/001f_Science/Biology/002 Diseases.md",
     "001_Notes/001f_Science/Biology/Images/003a Transmission.png",
     "001_Notes/001f_Science/Biology/001 Micro-organisms.md",
     "001_Notes/001f_Science/Chemistry/004 Fractional Distillation.md",
     "001_Notes/001f_Science/AssessmentFeedback.md",
-    "001_Notes/001f_Science/Untitled.md",
-    "001_Notes/001f_Science/Science Index.md"
+    "001_Notes/001f_Science/Untitled.md"
   ]
 }
