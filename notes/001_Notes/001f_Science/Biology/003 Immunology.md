@@ -7,7 +7,7 @@ The immune system is a group of cells, tissues, organs and mechanisms that defen
 
 An immune response is a complex series of specific and non-specific processes involving a range of cells and chemicals.
 
-Methods of disease transmission
+**Methods of disease transmission**
 | Direct | Indirect | Vectors |
 | --- | --- | --- |
 | Person to person | Fecal-oral | Insect Bite |
