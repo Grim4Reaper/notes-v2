@@ -87,6 +87,14 @@ Lymphocytes are a type of white blood cell found in the blood and lymph nodes. T
 Lymphocytes recognise antigen molecules on the surface of pathogens, and co-ordinate the immune response against the pathogen.
 
 
+An antigen is any substance capable of causing a specific immune response. They are large molecules such as proteins, carbohydrates, lipids or nucleic acid.
+
+An **antibody** is a Y-shaped protein that is produced by plasma cells in response to an antigen.
+Antibodies belong to a group of proteins called immunoglobulins.
+The antibody combines with the antigen to form an antigen-antibody complex.
+Each antibody can combine with only one particular antigen.
+
+
 
 
 
