@@ -94,6 +94,15 @@ Antibodies belong to a group of proteins called immunoglobulins.
 The antibody combines with the antigen to form an antigen-antibody complex.
 Each antibody can combine with only one particular antigen.
 
+When an antigen enters a body, specific cells recognise them
+These cells are are **antigen-presenting cells (APCs)**, and include dendritic cells, macrophages and undifferentiated B-cells.
+
+These cells:
+- detect the presence of an antigen
+- engulf the pathogen
+- digest the pathogen, producing small fragments that move to the surface of the cell
+- present the antigen to lymphocytes
+
 
 
 
