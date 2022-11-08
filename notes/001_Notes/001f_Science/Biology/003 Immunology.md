@@ -78,6 +78,14 @@ Macrophages and neutrophils are both phagocytes.
 ![[003d Phagocytosis.png|300]]
 
 
+## Specific Immunity
+- Cellular or cell-mediated response involves highly-specialized cells that target pathogens inside cells.
+- Humoral or antibody-mediated response targets pathogens in body fluids with antibodies.
+
+Lymphocytes are a type of white blood cell found in the blood and lymph nodes. They are produced in bone marrow and lymph tissue.
+
+Lymphocytes recognise antigen molecules on the surface of pathogens, and co-ordinate the immune response against the pathogen.
+
 
 
 
