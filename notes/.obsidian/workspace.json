@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/001f_Science/Physics/006 Uses of Nuclear Power.md",
+                "file": "001_Notes/001f_Science/Biology/003 Immunology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +156,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9964f49ae7ecdbe",
+  "active": "0fc0be9ed32b7f7f",
   "lastOpenFiles": [
+    "001_Notes/001f_Science/Physics/006 Uses of Nuclear Power.md",
     "001_Notes/001f_Science/Physics/005 Fission + Fusion.md",
     "001_Notes/001f_Science/Physics/004 Nuclear Equations.md",
     "001_Notes/001f_Science/Physics/002 Types of Radiation.md",
@@ -166,7 +167,6 @@
     "001_Notes/001f_Science/Chemistry/006 Combustion Reactions.md",
     "001_Notes/001f_Science/Chemistry/005 Hydrocarbons.md",
     "001_Notes/001f_Science/Chemistry/004 Fractional Distillation.md",
-    "001_Notes/001f_Science/Chemistry/003 Greenhouse Gases.md",
-    "001_Notes/001f_Science/Chemistry/002 Fossil Fuels.md"
+    "001_Notes/001f_Science/Chemistry/003 Greenhouse Gases.md"
   ]
 }
