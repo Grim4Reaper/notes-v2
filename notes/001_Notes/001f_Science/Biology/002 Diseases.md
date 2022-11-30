@@ -2,6 +2,7 @@
 title: Diseases
 ---
 # Diseases
+[[001_Notes/001f_Science/Science Index|Index]]
 
 Pathogen: A disease causing agent.
 Signs: What can be seen.
