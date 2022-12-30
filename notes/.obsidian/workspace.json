@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19a4b1952d843d18",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2dac25f6dbc03979",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "19a4b1952d843d18",
   "lastOpenFiles": [
     "001_Notes/001f_Science/Science Index.md",
     "001_Notes/001f_Science/AssessmentFeedback.md",
