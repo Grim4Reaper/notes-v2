@@ -2,7 +2,7 @@
 title: Making Oil Useful
 ---
 # Making Oil Useful
-[[001_Notes/001f_Science/Science Index|Index]]
+[[001_Notes/2022/001f_Science/Science Index|Index]]
 
 ## Crude Oil
 Many compounds in crude oil only contain the elements carbon and hydrogen.

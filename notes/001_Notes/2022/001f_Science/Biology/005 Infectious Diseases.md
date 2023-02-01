@@ -2,7 +2,7 @@
 title: Infectious Diseases
 ---
 # Infectious Diseases
-[[001_Notes/001f_Science/Science Index|Index]]
+[[001_Notes/2022/001f_Science/Science Index|Index]]
 
 ## Antibiotics
 Antibiotics are a group of drugs used to treat bacterial infections.

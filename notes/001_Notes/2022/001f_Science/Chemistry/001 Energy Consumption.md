@@ -2,7 +2,7 @@
 title: Energy Consumption
 ---
 # Energy Consumption
-[[001_Notes/001f_Science/Science Index|Index]]
+[[001_Notes/2022/001f_Science/Science Index|Index]]
 
 ## What is energy?
 Energy is the ability to do work and is comprised of different types including:

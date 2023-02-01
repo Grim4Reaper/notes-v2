@@ -2,7 +2,7 @@
 title: Nuclear Equations
 ---
 # Nuclear Equations
-[[001_Notes/001f_Science/Science Index|Index]]
+[[001_Notes/2022/001f_Science/Science Index|Index]]
 
 Nuclear Equations always show:
 - Mass number
