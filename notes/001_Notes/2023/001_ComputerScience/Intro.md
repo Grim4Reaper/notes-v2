@@ -19,11 +19,12 @@ Boolean - True/False
 
 ## Pseudocode
 
+
 Begin
+NUM1, NUM2 are FLOAT
 INPUT(NUM1, NUM2)
-
-
-
+SUM <- NUM1 + NUM2
+OUTPUT(SUM)
 End
 
 
