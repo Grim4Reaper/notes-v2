@@ -10,3 +10,23 @@ let temp = 25 // local var
 ```
 
 
+#### Data Types
+String - Text
+Integer - Whole number
+Float - Decimal number
+Boolean - True/False
+
+
+## Pseudocode
+
+Begin
+INPUT(NUM1, NUM2)
+
+
+
+End
+
+
+
+
+
