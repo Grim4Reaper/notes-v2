@@ -39,9 +39,5 @@ CASE NUM OF:
 ENDCASE
 End
 
-
-
-
-
-
-
+```
+print(max(int(input("> ")), int(input("> ")), int(input("> "))))
