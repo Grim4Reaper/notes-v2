@@ -7,18 +7,16 @@ Write the code for a program that will add 3 numbers entered by the user and the
 2. NUM1, NUM2, NUM3, SUM AS FLOAT
 3. INPUT(NUM1, NUM2, NUM3)
 4. SUM <- NUM1 + NUM2 + NUM3
-5. 
-6. IF SUM > 15 THEN:
-7. 	OUTPUT("Greater than 15.")
-8. ENDIF
-9. END
+5. IF SUM > 15 THEN:
+6. 	OUTPUT("Greater than 15.")
+7. ENDIF
+8. END
 
 ```
 
 
 ```python
-# if (float(input("> ")) + float(input("> ")) + float(input("> "))) > 15:
-# print("Greater than 15")
+# print("Greater than 15" if (float(input("> ")) + float(input("> ")) + float(input("> "))) > 15)
 
 
 num1 = float(input("Number 1: "))
