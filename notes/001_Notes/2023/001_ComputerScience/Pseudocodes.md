@@ -3,14 +3,14 @@ Write the code for a program that will add 3 numbers entered by the user and the
 
 
 ```Pseudocode
-1. BEGIN
-2. NUM1, NUM2, NUM3, SUM AS FLOAT
-3. INPUT(NUM1, NUM2, NUM3)
-4. SUM <- NUM1 + NUM2 + NUM3
-5. IF SUM > 15 THEN:
-6. 	OUTPUT("Greater than 15.")
-7. ENDIF
-8. END
+BEGIN
+NUM1, NUM2, NUM3, SUM AS FLOAT
+INPUT(NUM1, NUM2, NUM3)
+SUM <- NUM1 + NUM2 + NUM3
+	IF SUM > 15 THEN:
+		OUTPUT("Greater than 15.")
+	ENDIF
+END
 
 ```
 
