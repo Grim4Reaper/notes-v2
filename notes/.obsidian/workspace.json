@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/2023/001_ComputerScience/Binary.md",
+                "file": "001_Notes/2023/001_ComputerScience/Pseudocodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +133,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "23cfddb040d5607d",
+  "active": "8a82b182362e6d08",
   "lastOpenFiles": [
+    "001_Notes/2023/001_ComputerScience/Binary.md",
     "001_Notes/2023/001_ComputerScience/Pseudocodes.md",
     "001_Notes/2023/001_ComputerScience/Intro.md",
     "002_PersonalNotes/War Thunder Screenshots.md",
@@ -143,7 +144,6 @@
     "001_Notes/2022/001f_Science/Biology/005 Infectious Diseases.md",
     "001_Notes/2022/001f_Science/Biology/003 Immunology.md",
     "001_Notes/2022/001f_Science/Biology/002 Diseases.md",
-    "001_Notes/2022/001f_Science/Biology/001 Micro-organisms.md",
-    "001_Notes/2022/001f_Science/Physics/008 Nuclear Power Plants.md"
+    "001_Notes/2022/001f_Science/Biology/001 Micro-organisms.md"
   ]
 }
