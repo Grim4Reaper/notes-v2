@@ -10,13 +10,13 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 
 #### Movement
 	- A movement along the existing supply curve
-- Due to changes in the price of the good
+- Due to changes in the *price* of the good
 - *Expansion* in Supply: *Increase* in price
 - *Contraction* of Supply: *Decrease* in price
 
 #### Shift:
 	- The quantity suppied of the good changes at every price
-- Due to a change in non-price factors
+- Due to a change in *non-price* factors
 - *Rightward* shift: *Increase* in supply
 - *Leftward* shift: *Decrease* in supply
 
