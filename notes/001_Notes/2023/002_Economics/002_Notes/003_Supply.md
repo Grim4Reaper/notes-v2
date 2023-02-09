@@ -11,14 +11,14 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 #### Movement
 	- A movement along the existing supply curve
 - Due to changes in the price of the good
-- Expansion in Supply: Increase in price
-- Contraction of Supply: Decrease in price
+- *Expansion* in Supply: *Increase* in price
+- *Contraction* of Supply: *Decrease* in price
 
 #### Shift:
 	- The quantity suppied of the good changes at every price
 - Due to a change in non-price factors
-- Rightward shift: Increase in supply
-- Leftward shift: Decrease in supply
+- *Rightward* shift: *Increase* in supply
+- *Leftward* shift: *Decrease* in supply
 
 ## Non-price factors
 
@@ -38,6 +38,10 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 
 #### Government regulation
 - Government regulations influence the number of suppliers in the market, which increases or decreases market supply
+- Government regulations can take the form of taxes, tariffs, subsidies and quotas
+
+
+
 
 
 
