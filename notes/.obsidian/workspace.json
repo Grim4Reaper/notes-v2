@@ -44,19 +44,31 @@
             }
           },
           {
+            "id": "4897891fb89ed0e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_Notes/2023/002_Economics/000_Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5cc6f18e34786e66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply- NEED TO FORMAT.md",
+                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply - NEED TO FORMAT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply- NEED TO FORMAT.md",
+                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply - NEED TO FORMAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,15 +160,15 @@
   },
   "active": "5cc6f18e34786e66",
   "lastOpenFiles": [
+    "001_Notes/2023/002_Economics/000_Index.md",
+    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply - NEED TO FORMAT.md",
+    "001_Notes/2023/002_Economics/001_Chapter Summaries/Chapter 1.md",
     "001_Notes/2023/002_Economics/002_Notes/003_Supply.md",
-    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply- NEED TO FORMAT.md",
     "001_Notes/2023/004_Specialist/Notes/001_Proofs.md",
     "001_Notes/2023/001_ComputerScience/004_Case.md",
-    "001_Notes/2023/002_Economics/000_Index.md",
     "001_Notes/2023/001_ComputerScience/Pasted image 20230209113440.png",
     "001_Notes/2023/001_ComputerScience/003_Pseudocodes.md",
     "001_Notes/2023/001_ComputerScience/002_Binary.md",
-    "001_Notes/2023/001_ComputerScience/001_Intro.md",
-    "000_Files/dailynotesbanner.png"
+    "001_Notes/2023/001_ComputerScience/001_Intro.md"
   ]
 }
