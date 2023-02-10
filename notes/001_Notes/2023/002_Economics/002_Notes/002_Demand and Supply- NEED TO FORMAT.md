@@ -1,3 +1,8 @@
+# Index
+[[002_Demand and Supply- NEED TO FORMAT#Demand|Demand]]
+[[002_Demand and Supply- NEED TO FORMAT#Supply|Supply]]
+[[002_Demand and Supply- NEED TO FORMAT#Demand and Supply|Demand and Supply]]
+
 # Demand
 
 -   The quantity of a good or service that consumers are willing and able to buy at each price in a particular point in time.
@@ -96,19 +101,21 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 
 **Equilibrium price** is the price that clears the market, where the quantity demanded equals the quantity supplied.
 
-#### Price Mechanism
+### Price Mechanism
 - The process by which the forces of demand and supply interact to determine the price of a good or service
 
-### Invisible Hand
-- ...
+#### Invisible Hand
+	-Aka Price Mechanism
 
 #### Shortage
 - When the quantity demanded exceeds the quantity supplied.
 - Consumers bid among themselves for the limited goods so the price of the good increase.
-- **$Q\sub{d} > Q\sub{s}$**
+- **$Q_d > Q_s$**
 
-
-
+#### Surplus
+- When the quantity supplied exceeds the quantity demanded
+- Firms lower their prices to clear their excess stock
+- **$Q_s > Q_d$**
 
 
 
