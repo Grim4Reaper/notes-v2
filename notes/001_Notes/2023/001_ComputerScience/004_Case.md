@@ -70,6 +70,31 @@ match num:
 ```
 
 
+## Exercise 3
+Most countries use a sliding scale income tax program based on the amount of money earned. Here is an example of the tax on an individual’s weekly income:
+
+```Pseudocode
+BEGIN
+
+
+
+
+
+
+
+
+
+
+END
+```
+
+
+
+
+
+
+
+
 
 
 
