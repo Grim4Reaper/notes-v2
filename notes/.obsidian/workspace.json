@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply - NEED TO FORMAT.md",
+                "file": "001_Notes/2023/004_Specialist/Notes/001_Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,10 +158,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5cc6f18e34786e66",
+  "active": "0e75ec806ad02c15",
   "lastOpenFiles": [
-    "001_Notes/2023/002_Economics/000_Index.md",
     "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply - NEED TO FORMAT.md",
+    "001_Notes/2023/002_Economics/000_Index.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/Chapter 1.md",
     "001_Notes/2023/002_Economics/002_Notes/003_Supply.md",
     "001_Notes/2023/004_Specialist/Notes/001_Proofs.md",

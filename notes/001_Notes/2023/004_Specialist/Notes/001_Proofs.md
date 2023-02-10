@@ -208,3 +208,20 @@
       - This is different - because this involves a *there exists* (truth with exceptions), we must prove that there does not exist at all
 
             - Due to this, we must prove **the negation to be true** ([[#Negating Quantifiers]])
+
+
+##### Proof by Induction
+	- State the Proposition: P(n)
+	- Try for P(1)
+	- Assume P(k)
+	- Try for P(k+1)
+
+$7^{k} - 4 = 3m$
+$7^{k+1}-4 = 7(7^{k}-4)+24$
+			 $= 7(3m)+24$
+			 $=3(7m+8)$
+
+
+
+
+
