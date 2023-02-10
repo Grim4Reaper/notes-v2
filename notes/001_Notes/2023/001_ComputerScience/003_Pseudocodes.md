@@ -11,7 +11,6 @@ SUM <- NUM1 + NUM2 + NUM3
 		OUTPUT("Greater than 15.")
 	ENDIF
 END
-
 ```
 
 
