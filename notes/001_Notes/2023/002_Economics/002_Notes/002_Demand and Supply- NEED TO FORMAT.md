@@ -11,49 +11,38 @@
 
 A market demand curve is obtained from the horizontal summation of individual demand curves.
 
-Changes in demand
+## Changes in demand
 
-Movement:
-
+#### Movement
 -   A movement along the existing demand curve
 -   Due to changes in price
 -   Expansion - decrease in price
 -   Contraction - increase in price
 
-Shift:
-
+#### Shift
 -   The quantity demanded of the changes at every price
 -   Due to change in non-price factors
 -   Rightward shift - increase in demand
 -   Leftward shift - decrease in demand
 
-Non price factors (TEPID):
+### Non price factors (TEPID)
 
 -   Tastes and preferences
 -   Price of related goods
-
 -   Substitutes
 -   Complements
-
 -   Level of disposable income
-
 -   Normal goods - as income increases, demand increases
 -   Inferior - as income increases, demand decrease
-
 -   Demographic factors
-
 -   Age, gender, socioeconomic status
-
 -   Expectations of consumers
-
 -   Consumers may decrease consumption if they are expecting prices to fall
 
 Factors that would increase demand:
-
 -   Price of movie tickets increase, increase demand for streaming services - substitute
 
 Factors that would decrease demand:
-
 -   Increase in the price of phones, decrease in demand for phone cases - complement goods
 
 # Supply
@@ -105,10 +94,18 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 ### Equilibrium
 	-The state of the market where there is no tendency for either demand or supply to change
 
+**Equilibrium price** is the price that clears the market, where the quantity demanded equals the quantity supplied.
 
+#### Price Mechanism
+- The process by which the forces of demand and supply interact to determine the price of a good or service
 
+### Invisible Hand
+- ...
 
-
+#### Shortage
+- When the quantity demanded exceeds the quantity supplied.
+- Consumers bid among themselves for the limited goods so the price of the good increase.
+- **$Q\sub{d} > Q\sub{s}$**
 
 
 
