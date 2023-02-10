@@ -10,19 +10,20 @@
 
 - In proving statements, we should know some basic algebraic representations
 
-      - `Even numbers - ` *$2m$ for some $m \in \mathbb{Z}$*
+	 - `Even numbers` -  *$2m$ for some $m \in \mathbb{Z}$*
 
-      - `Odd numbers` - *$2m + 1$ for some $m \in \mathbb{Z}$*
+     - `Odd numbers` - *$2m + 1$ for some $m \in \mathbb{Z}$*
 
-      - `Divisible by `$a$ -  *$am$ for some $m \in \mathbb{Z}$*
+     - `Divisible by `$a$ -  *$am$ for some $m \in \mathbb{Z}$*
 
-      - `Perfect Square` - *There exists* $a^2$ *for some* $a \in \mathbb{Z}$
+     - `Perfect Square` - *There exists* $a^2$ *for some* $a \in \mathbb{Z}$
 
-      - `Prime` - *There does not exist* $ab$ *for some* $a,b \in \mathbb{Z}$ *and* $a,b>1$
+     - `Prime` - *There does not exist* $ab$ *for some* $a,b \in \mathbb{Z}$ *and* $a,b>1$
 
 - There are different ways to prove a statement, these are discussed below
 
-  
+
+
 
 #### Direct Proof
 
