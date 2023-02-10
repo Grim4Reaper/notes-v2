@@ -75,6 +75,7 @@ Most countries use a sliding scale income tax program based on the amount of mon
 
 ```Pseudocode
 BEGIN
+INIT income AS FLOAT
 
 
 
