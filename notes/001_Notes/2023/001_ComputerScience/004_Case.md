@@ -75,9 +75,15 @@ Most countries use a sliding scale income tax program based on the amount of mon
 
 ```Pseudocode
 BEGIN
-INIT income AS FLOAT
-
-
+INIT income, base, extra AS FLOAT
+INPUT(income)
+CASE income OF:
+	<200:
+		base <- 0
+		extra <- 0
+	<900:
+		base <- 0
+		extra <- 
 
 
 
