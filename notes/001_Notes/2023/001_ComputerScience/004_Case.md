@@ -12,6 +12,7 @@ ELSE IF copies > 10000 THEN:
 	price <- 5.00
 ELSE THEN:
 	price <- 5.70
+ENDIF
 total <- price*copies
 OUTPUT(total)
 END
@@ -37,18 +38,35 @@ Write a program that will display 6 different comments based on the results of r
 BEGIN
 INIT num AS INTEGER
 num <- RANDOM INT
-
-
-
-
-
+CASE num OF:
+	1 : OUTPUT(1)
+	2 : OUTPUT(2)
+	3 : OUTPUT(3)
+	4 : OUTPUT(4)
+	5 : OUTPUT(5)
+	6 : OUTPUT(6)
+ENDCASE
 END
 ```
 
 ```python
-
-
-
+import random
+num = random.randint(1,6)
+match num:
+	case 1:
+		print(1)
+	case 2:
+		print(2)
+	case 3:
+		print(3)
+	case 4:
+		print(4)
+	case 5:
+		print(5)
+	case 6:
+		print(6)
+	case _:
+		print("ERROR")
 ```
 
 
