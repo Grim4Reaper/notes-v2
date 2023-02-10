@@ -207,7 +207,7 @@
 
       - This is different - because this involves a *there exists* (truth with exceptions), we must prove that there does not exist at all
 
-            - Due to this, we must prove **the negation to be true** ([[#Negating Quantifiers]])
+		- Due to this, we must prove **the negation to be true** ([[#Negating Quantifiers]])
 
 
 ##### Proof by Induction

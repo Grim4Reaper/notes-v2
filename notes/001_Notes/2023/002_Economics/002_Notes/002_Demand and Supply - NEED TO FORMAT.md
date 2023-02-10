@@ -94,10 +94,11 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 - Government regulations can take the form of taxes, tariffs, subsidies and quotas
 
 
+
 # Demand and Supply
 
 ### Equilibrium
-	-The state of the market where there is no tendency for either demand or supply to change
+-`The state of the market where there is no tendency for either demand or supply to change`
 
 **Equilibrium price** is the price that clears the market, where the quantity demanded equals the quantity supplied.
 

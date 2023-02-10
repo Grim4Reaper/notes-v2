@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320
+    "width": 320,
+    "collapsed": true
   },
   "right": {
     "id": "b627013593b17492",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/2023/004_Specialist/Notes/001_Proofs.md",
+                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply - NEED TO FORMAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,13 +168,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0e75ec806ad02c15",
+  "active": "5cc6f18e34786e66",
   "lastOpenFiles": [
-    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply - NEED TO FORMAT.md",
     "001_Notes/2023/002_Economics/000_Index.md",
+    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply - NEED TO FORMAT.md",
+    "001_Notes/2023/004_Specialist/Notes/001_Proofs.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/Chapter 1.md",
     "001_Notes/2023/002_Economics/002_Notes/003_Supply.md",
-    "001_Notes/2023/004_Specialist/Notes/001_Proofs.md",
     "001_Notes/2023/001_ComputerScience/004_Case.md",
     "001_Notes/2023/001_ComputerScience/Pasted image 20230209113440.png",
     "001_Notes/2023/001_ComputerScience/003_Pseudocodes.md",
