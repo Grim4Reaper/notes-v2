@@ -118,7 +118,7 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 - Firms lower their prices to clear their excess stock
 - **$Q_s > Q_d$**
 
-### NEED TO ADD PAPER NOTES
+### NEED TO ADD PAPER NOTES ON SHIFTS
 
 
 
