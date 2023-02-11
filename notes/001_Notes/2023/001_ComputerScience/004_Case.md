@@ -81,20 +81,33 @@ CASE income OF:
 	<200:
 		tax <- 0
 	<900:
-		tax <- 0 + (tax - 100) * 0.28
+		tax <- 0 + (income - 100) * 0.28
 	<1800:
-		tax <- 112 + (tax - 500) * 0.32
+		tax <- 112 + (income - 500) * 0.32
 	<3000:
-		tax <- 196 + (tax - 1000) * 0.46
+		tax <- 196 + (income - 1000) * 0.46
 	>3000:
-		tax <- 656 + (tax - 2000) * 0.60
+		tax <- 656 + (income - 2000) * 0.60
 ENDCASE
 OUTPUT(tax)
 END
 ```
 
 ```python
-in
+income = float(input("Income? "))
+if income < 200:
+	tax = 0
+elif income < 900:
+	tax = 0 + (income - 100) * 0.28
+elif income < 1800:
+	tax = 112 + (income - 500) * 0.32
+elif income < 3000:
+	tax = 196 + (income - 1000) * 0.46
+else:
+	tax = 656 + (income - 2000) * 0.60
+
+print(tax)
+
 ```
 
 
