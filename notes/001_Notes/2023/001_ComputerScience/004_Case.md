@@ -82,18 +82,20 @@ CASE income OF:
 		tax <- 0
 	<900:
 		tax <- 0 + (tax - 100) * 0.28
-
-
-
-
-
-
-
-
+	<1800:
+		tax <- 112 + (tax - 500) * 0.32
+	<3000:
+		tax <- 196 + (tax - 1000) * 0.46
+	>3000:
+		tax <- 656 + (tax - 2000) * 0.60
+ENDCASE
+OUTPUT(tax)
 END
 ```
 
-
+```python
+in
+```
 
 
 
