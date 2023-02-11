@@ -81,7 +81,7 @@ CASE income OF:
 	<200:
 		tax <- 0
 	<900:
-		tax <- 0 + 
+		tax <- 0 + (tax - 100) * 0.28
 
 
 
