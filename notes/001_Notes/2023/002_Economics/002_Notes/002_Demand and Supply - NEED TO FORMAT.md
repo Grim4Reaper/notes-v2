@@ -118,7 +118,14 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 - Firms lower their prices to clear their excess stock
 - **$Q_s > Q_d$**
 
-### NEED TO ADD PAPER NOTES ON SHIFTS
+### Describing Shifts
+1. Non-price factors
+2. Increase/decrease - Shift
+3. @ original price - Compare $Q_d$ and $Q_s$ of new curve
+4. Identify temporary surplus/shortage
+5. Action taken to clear price
+6. Expansion/Contraction
+7. New equilibrium - Compare
 
 
 
