@@ -1,7 +1,7 @@
 # Index
-[[002_Demand and Supply - NEED TO FORMAT#Demand|Demand]]
-[[002_Demand and Supply - NEED TO FORMAT#Supply|Supply]]
-[[002_Demand and Supply - NEED TO FORMAT#Demand and Supply|Demand and Supply]]
+[[002_Demand and Supply#Demand|Demand]]
+[[002_Demand and Supply#Supply|Supply]]
+[[002_Demand and Supply#Demand and Supply|Demand and Supply]]
 
 # Demand
 
