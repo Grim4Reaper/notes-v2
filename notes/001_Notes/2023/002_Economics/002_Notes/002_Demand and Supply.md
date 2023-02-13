@@ -130,6 +130,7 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 
 
 
+### Add paper notes
 
 
 
