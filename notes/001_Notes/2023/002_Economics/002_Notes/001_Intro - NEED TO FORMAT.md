@@ -1,5 +1,5 @@
 The basic economic problem is that we have scarce resources to produce our unlimited needs and wants.
-
+ 
 Opportunity cost is the alternative option in a choice.
 
 Positive economics is the testing and developing economic theory - subjects that are testable.
