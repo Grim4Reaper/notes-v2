@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/2023/001_ComputerScience/006_Functions.md",
+                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,10 +167,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "84bfe57512f76a56",
+  "active": "5cc6f18e34786e66",
   "lastOpenFiles": [
-    "001_Notes/2023/002_Economics/000_Index.md",
     "001_Notes/2023/001_ComputerScience/006_Functions.md",
+    "001_Notes/2023/002_Economics/000_Index.md",
     "001_Notes/2023/001_ComputerScience/001_Intro.md",
     "001_Notes/2023/001_ComputerScience/005_Iterations.md",
     "001_Notes/2023/001_ComputerScience/004_Case.md",

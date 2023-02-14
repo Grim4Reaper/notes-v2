@@ -42,7 +42,7 @@ A market demand curve is obtained from the horizontal summation of individual de
 -   Demographic factors
 -   Age, gender, socioeconomic status
 -   Expectations of consumers
--   Consumers may decrease consumption if they are expecting prices to fall
+	-   Consumers may decrease consumption if they are expecting prices to fall
 
 Factors that would increase demand:
 -   Price of movie tickets increase, increase demand for streaming services - substitute
