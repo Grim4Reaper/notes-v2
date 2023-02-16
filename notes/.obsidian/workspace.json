@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "33f37e746c4493b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_Notes/2023/001_ComputerScience/007_Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e75ec806ad02c15",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
+                "file": "001_Notes/2023/001_ComputerScience/007_Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,9 +179,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5cc6f18e34786e66",
+  "active": "33f37e746c4493b3",
   "lastOpenFiles": [
     "001_Notes/2023/001_ComputerScience/006_Functions.md",
+    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
     "001_Notes/2023/002_Economics/000_Index.md",
     "001_Notes/2023/001_ComputerScience/001_Intro.md",
     "001_Notes/2023/001_ComputerScience/005_Iterations.md",
@@ -177,7 +190,6 @@
     "001_Notes/2023/001_ComputerScience/003_Pseudocodes.md",
     "001_Notes/2023/001_ComputerScience/002_Binary.md",
     "001_Notes/2023/002_Economics/002_Notes/001_Intro - NEED TO FORMAT.md",
-    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
     "001_Notes/2023/004_Specialist/Notes/001_Proofs.md"
   ]
 }
