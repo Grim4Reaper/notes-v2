@@ -40,7 +40,7 @@ A market demand curve is obtained from the horizontal summation of individual de
 -   Normal goods - as income increases, demand increases
 -   Inferior - as income increases, demand decrease
 -   Demographic factors
--   Age, gender, socioeconomic status
+	-   Age, gender, socioeconomic status
 -   Expectations of consumers
 	-   Consumers may decrease consumption if they are expecting prices to fall
 
