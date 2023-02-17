@@ -136,8 +136,7 @@ Decrease in demand:
 
 ### Two Way Shifts
 Decrease in supply, increase in demand:
-	There is a non-price factor that is causing an increase in demand, shifting the demand curve to the right from $D$ to $D_1$ and a non-price factor causing a decrease in supply, shifting the supply curve to the left, from $S_1$ to $S_2$. At the original price point, quantity demanded, $Q_3$, exceeds quantity supplied, $Q_2$. There is a temporary shortage from $Q_2$ to $Q_3$. Consumers bid up the price leading to contraction along the demand curve, leading to an expansion along the supply curve. The temporary shortage is cleared and the new equilibrium point is at a higher price point, $P_2$, and at an  
-
+	There is a non-price factor that is causing an increase in demand, shifting the demand curve to the right from $D$ to $D_1$ and a non-price factor causing a decrease in supply, shifting the supply curve to the left, from $S_1$ to $S_2$. At the original price point, quantity demanded, $Q_3$, exceeds quantity supplied, $Q_2$. There is a temporary shortage from $Q_2$ to $Q_3$. Consumers bid up the price leading to contraction along the demand curve, leading to an expansion along the supply curve. The temporary shortage is cleared and the new equilibrium point is at a higher price point, $P_2$, and at an indeterminate quantity, $Q_1$.
 
 
 Increase in supply, decrease in demand:
