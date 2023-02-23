@@ -2,9 +2,9 @@
   "obsidian-full-calendar",
   "obsidian-banners",
   "templater-obsidian",
-  "obsidian-git",
   "obsidian-better-codeblock",
   "table-editor-obsidian",
   "quick-latex",
-  "obsidian-desmos"
+  "obsidian-desmos",
+  "obsidian-git"
 ]

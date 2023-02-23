@@ -8,5 +8,6 @@
   "legacyEditor": false,
   "spellcheck": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "vimMode": false
 }
