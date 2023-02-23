@@ -58,9 +58,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5bda827ec766cfd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -118,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,14 +166,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5cc6f18e34786e66",
+  "active": "e5bda827ec766cfd",
   "lastOpenFiles": [
+    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
     "001_Notes/2023/002_Economics/000_Index.md",
     "001_Notes/2023/002_Economics/002_Notes/001_Intro - NEED TO FORMAT.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/Chapter 2.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/SupplyCurve.svg.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/Powerpoint - Demand.md",
-    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
     "001_Notes/2023/004_Specialist/Notes/001_Proofs.md",
     "001_Notes/2023/001_ComputerScience/007_Arrays.md",
     "001_Notes/2023/001_ComputerScience/006_Functions.md",
