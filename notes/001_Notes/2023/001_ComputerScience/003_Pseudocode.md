@@ -1,3 +1,6 @@
+---
+title: Pseudocode
+---
 #### Problem
 Write the code for a program that will add 3 numbers entered by the user and then determine if the sum of the numbers is greater than 15. If it is, the program will display a relevant message.
 

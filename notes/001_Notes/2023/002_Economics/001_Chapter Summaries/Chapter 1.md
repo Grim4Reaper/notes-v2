@@ -1,3 +1,6 @@
+---
+title: Chapter 1
+---
 #### What is Economics?
 
 - Economics deals with two basic facts.

@@ -1,3 +1,6 @@
+---
+title: Binary
+---
 ## The division method
 
 104/2 = 0
