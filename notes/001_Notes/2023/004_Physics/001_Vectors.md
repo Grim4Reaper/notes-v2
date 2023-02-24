@@ -18,6 +18,9 @@ There are two ways to describe horizontal vectors:
 - Angles are $0\degree\le x \le 90 \degree$ to East or West
 
 ### Vertical
+- Vectors are referenced to the vertical
+- Vectors are $0\degree\le x \le 90 \degree$
+
 
 
 
