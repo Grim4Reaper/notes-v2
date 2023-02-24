@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_Notes/2023/002_Economics/002_Notes/001_Intro - NEED TO FORMAT.md",
+                "file": "001_Notes/2023/004_Physics/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/2023/002_Economics/002_Notes/001_Intro - NEED TO FORMAT.md",
+                "file": "001_Notes/2023/004_Physics/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +155,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6d1fc3ab5c9175ca",
+  "active": "b6ac1c07b47a2df7",
   "lastOpenFiles": [
-    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
+    "001_Notes/2023/Index.md",
+    "001_Notes/2023/004_Physics/Index.md",
     "001_Notes/2023/002_Economics/002_Notes/001_Intro - NEED TO FORMAT.md",
+    "001_Notes/2023/004_Physics",
+    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/Chapter 2.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/Chapter 1.md",
     "001_Notes/2023/001_ComputerScience/Index.md",
@@ -169,7 +172,6 @@
     "001_Notes/2023/001_ComputerScience/003_Pseudocode.md",
     "001_Notes/2023/001_ComputerScience/002_Binary.md",
     "001_Notes/2023/001_ComputerScience/001_Intro.md",
-    "001_Notes/2023/Index.md",
     "001_Notes/2023/002_Economics/Index.md",
     "Change Log.md",
     "Index.md",
