@@ -1,4 +1,3 @@
-The basic economic problem is that we have scarce resources to produce our unlimited needs and wants.
  
 Opportunity cost is the alternative option in a choice.
 

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_Notes/Index.md",
+                "file": "001_Notes/2023/002_Economics/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6ac1c07b47a2df7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Index.md",
+                "file": "001_Notes/2023/002_Economics/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,18 +132,18 @@
   },
   "active": "4e5140261f1474d0",
   "lastOpenFiles": [
-    "001_Notes/2023/001_ComputerScience/Index.md",
-    "001_Notes/2023/Index.md",
+    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
     "001_Notes/2023/003_Specialist/Index.md",
-    "001_Notes/2023/002_Economics/Index.md",
+    "001_Notes/2023/Index.md",
+    "001_Notes/2023/002_Economics/002_Notes/001_Intro - NEED TO FORMAT.md",
     "001_Notes/Index.md",
+    "001_Notes/2023/001_ComputerScience/Index.md",
+    "001_Notes/2023/002_Economics/Index.md",
     "001_Notes/2023/001_ComputerScience/006_Functions.md",
     "001_Notes/2023/001_ComputerScience/001_Intro.md",
     "001_Notes/2022/Index.md",
-    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
     "001_Notes/2023/001_ComputerScience/007_Arrays.md",
     "001_Notes/2023/002_Economics/000_Index.md",
-    "001_Notes/2023/002_Economics/002_Notes/001_Intro - NEED TO FORMAT.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/Chapter 2.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/SupplyCurve.svg.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/Powerpoint - Demand.md",
