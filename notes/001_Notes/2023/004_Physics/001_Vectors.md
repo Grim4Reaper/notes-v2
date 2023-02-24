@@ -4,7 +4,7 @@ title: Vectors
 ## Vectors
 - A vector is a quantity with both **magnitude** and **direction**.
 
-### Horizontal
+#### Horizontal
 There are two ways to describe horizontal vectors:
 - Full circle/True bearing
 - Quadrant bearing
@@ -17,13 +17,14 @@ There are two ways to describe horizontal vectors:
 - Angles are referenced from either north or south
 - Angles are $0\degree\le x \le 90 \degree$ to East or West
 
-### Vertical
+#### Vertical
 - Vectors are referenced to the vertical
 - Vectors are $0\degree\le x \le 90 \degree$
+- Eg 60$\degree$T = $30\degree$ up from the horizontal to the left
 
 
-
-
+### Vector Addition
+- 
 
 
 
