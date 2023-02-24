@@ -1,3 +1,6 @@
+---
+title: Demand and Supply
+---
 # Index
 [[002_Demand and Supply#Demand|Demand]]
 [[002_Demand and Supply#Supply|Supply]]

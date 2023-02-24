@@ -1,3 +1,6 @@
+---
+title: Chapter 2
+---
 # Summary Notes - CH2
 
 #### The Role of Markets

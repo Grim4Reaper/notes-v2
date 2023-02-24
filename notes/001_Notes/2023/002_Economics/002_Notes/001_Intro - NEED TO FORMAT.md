@@ -1,4 +1,7 @@
- 
+---
+title: Intro
+---
+
 Opportunity cost is the alternative option in a choice.
 
 Positive economics is the testing and developing economic theory - subjects that are testable.
@@ -28,12 +31,9 @@ Market Economy
 -   Voluntary exchange
 -   A process, mechanism or arrangement through which buyers and sellers meet
 
-Product market:
+#### Product market
+- Goods and services
+- Households supply, firms demand
 
-Goods and services
-
-Households supply, firms demand
-
-Factor market
-
-Firms demand, households supply
+#### Factor market
+- Firms demand, households supply
