@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eae158a1d6b63574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_Notes/2023/004_Physics/001_Vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/2023/004_Physics/Index.md",
+                "file": "001_Notes/2023/004_Physics/001_Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +167,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b6ac1c07b47a2df7",
+  "active": "eae158a1d6b63574",
   "lastOpenFiles": [
-    "001_Notes/2023/Index.md",
     "001_Notes/2023/004_Physics/Index.md",
+    "001_Notes/2023/004_Physics/001_Vectors.md",
+    "001_Notes/2023/Index.md",
     "001_Notes/2023/002_Economics/002_Notes/001_Intro - NEED TO FORMAT.md",
     "001_Notes/2023/004_Physics",
     "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
