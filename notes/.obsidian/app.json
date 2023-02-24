@@ -9,5 +9,8 @@
   "spellcheck": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
-  "vimMode": false
+  "vimMode": false,
+  "spellcheckLanguages": [
+    "en-AU"
+  ]
 }
