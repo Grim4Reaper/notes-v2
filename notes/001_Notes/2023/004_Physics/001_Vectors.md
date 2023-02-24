@@ -24,7 +24,10 @@ There are two ways to describe horizontal vectors:
 
 
 ### Vector Addition
-- 
+- $\vec{u} = \vec{v} + \vec{w}$
+- Put the vectors tail to tip
+- Use trig to work out angle and resultant vector
+
 
 
 
