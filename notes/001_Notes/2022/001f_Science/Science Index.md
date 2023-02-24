@@ -2,7 +2,7 @@
 title: Science Index
 ---
 # Index
-[[Index|Back To Subjects]]
+[[001_Notes/2022/Index|Back To Subjects]]
 
 ## Chemistry
 

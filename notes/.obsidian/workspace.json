@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4391e3850d1d823e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "84bfe57512f76a56",
+            "id": "4e5140261f1474d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_Notes/2023/001_ComputerScience/006_Functions.md",
+                "file": "001_Notes/2023/001_ComputerScience/Index.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "33f37e746c4493b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_Notes/2023/001_ComputerScience/007_Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4897891fb89ed0e0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5cc6f18e34786e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5bda827ec766cfd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001_Notes/2023/001_ComputerScience/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,17 +118,23 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e5bda827ec766cfd",
+  "active": "4e5140261f1474d0",
   "lastOpenFiles": [
+    "001_Notes/2023/Index.md",
+    "001_Notes/2023/003_Specialist/Index.md",
+    "001_Notes/2023/002_Economics/Index.md",
+    "001_Notes/Index.md",
+    "001_Notes/2023/001_ComputerScience/006_Functions.md",
+    "001_Notes/2023/001_ComputerScience/Index.md",
+    "001_Notes/2023/001_ComputerScience/001_Intro.md",
+    "001_Notes/2022/Index.md",
     "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
+    "001_Notes/2023/001_ComputerScience/007_Arrays.md",
     "001_Notes/2023/002_Economics/000_Index.md",
     "001_Notes/2023/002_Economics/002_Notes/001_Intro - NEED TO FORMAT.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/Chapter 2.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/SupplyCurve.svg.md",
     "001_Notes/2023/002_Economics/001_Chapter Summaries/Powerpoint - Demand.md",
-    "001_Notes/2023/004_Specialist/Notes/001_Proofs.md",
-    "001_Notes/2023/001_ComputerScience/007_Arrays.md",
-    "001_Notes/2023/001_ComputerScience/006_Functions.md",
-    "001_Notes/2023/001_ComputerScience/001_Intro.md"
+    "001_Notes/2023/003_Specialist/Notes/001_Proofs.md"
   ]
 }
