@@ -9,8 +9,11 @@ There are two ways to describe horizontal vectors:
 - Full circle/True bearing
 - Quadrant bearing
 
-##### True Bearing
-- North is at 0$\degree$ true  
+##### True Bearing (TB)
+- North is at 0$\degree$ true
+- All directions are given as clockwise from north
+
+##### Quadrant Bearing (QB)
 
 
 
