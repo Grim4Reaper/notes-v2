@@ -17,6 +17,13 @@ There are two ways to describe horizontal vectors:
 - Angles are referenced from either north or south
 - Angles are $0\degree\le x \le 90 \degree$ to East or West
 
+### Vertical
+
+
+
+
+
+
 
 
 
