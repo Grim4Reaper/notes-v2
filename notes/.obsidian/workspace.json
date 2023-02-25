@@ -10,37 +10,15 @@
           {
             "id": "8d5670a3f01124cd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "001_Notes/2023/Index.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "aa3ccdc1c586b680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Change Log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "730e4d239e05e46a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_Notes/2023/002_Economics/Index.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -68,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,11 +147,12 @@
   },
   "active": "d805410b5a8f9c02",
   "lastOpenFiles": [
-    "001_Notes/2023/004_Physics/001_Vectors.md",
-    "001_Notes/2023/004_Physics/002_Sig Fig + Uncertainty.md",
-    "001_Notes/2023/004_Physics/Index.md",
-    "001_Notes/2023/002_Economics/Index.md",
     "001_Notes/2023/Index.md",
+    "001_Notes/2023/004_Physics/002_Sig Fig + Uncertainty.md",
+    "Change Log.md",
+    "001_Notes/2023/002_Economics/Index.md",
+    "001_Notes/2023/004_Physics/Index.md",
+    "001_Notes/2023/004_Physics/001_Vectors.md",
     "001_Notes/2023/002_Economics/002_Notes/001_Intro - NEED TO FORMAT.md",
     "001_Notes/2023/004_Physics",
     "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
@@ -187,7 +166,6 @@
     "001_Notes/2023/001_ComputerScience/003_Pseudocode.md",
     "001_Notes/2023/001_ComputerScience/002_Binary.md",
     "001_Notes/2023/001_ComputerScience/001_Intro.md",
-    "Change Log.md",
     "Index.md",
     "001_Notes/2023/003_Specialist/Index.md",
     "001_Notes/2022/Index.md",
