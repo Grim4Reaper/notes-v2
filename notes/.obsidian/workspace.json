@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_Notes/2023/004_Physics/001_Vectors.md",
+                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/2023/004_Physics/001_Vectors.md",
+                "file": "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,25 +147,25 @@
   },
   "active": "d805410b5a8f9c02",
   "lastOpenFiles": [
+    "001_Notes/2023/002_Economics/001_Chapter Summaries/Chapter 1.md",
+    "001_Notes/2023/002_Economics/001_Chapter Summaries/Chapter 2.md",
+    "001_Notes/2023/001_ComputerScience/002_Binary.md",
+    "001_Notes/2023/001_ComputerScience/001_Intro.md",
+    "001_Notes/2023/001_ComputerScience/003_Pseudocode.md",
+    "001_Notes/2023/001_ComputerScience/006_Functions.md",
+    "001_Notes/2023/001_ComputerScience/005_Iterations.md",
+    "001_Notes/2023/001_ComputerScience/007_Arrays.md",
     "001_Notes/2023/004_Physics/001_Vectors.md",
     "001_Notes/2023/004_Physics/002_Sig Fig + Uncertainty.md",
+    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
+    "001_Notes/2023/002_Economics/002_Notes/001_Intro - NEED TO FORMAT.md",
     "001_Notes/2023/Index.md",
     "Change Log.md",
     "001_Notes/2023/002_Economics/Index.md",
     "001_Notes/2023/004_Physics/Index.md",
-    "001_Notes/2023/002_Economics/002_Notes/001_Intro - NEED TO FORMAT.md",
     "001_Notes/2023/004_Physics",
-    "001_Notes/2023/002_Economics/002_Notes/002_Demand and Supply.md",
-    "001_Notes/2023/002_Economics/001_Chapter Summaries/Chapter 2.md",
-    "001_Notes/2023/002_Economics/001_Chapter Summaries/Chapter 1.md",
     "001_Notes/2023/001_ComputerScience/Index.md",
-    "001_Notes/2023/001_ComputerScience/007_Arrays.md",
-    "001_Notes/2023/001_ComputerScience/006_Functions.md",
-    "001_Notes/2023/001_ComputerScience/005_Iterations.md",
     "001_Notes/2023/001_ComputerScience/004_Case.md",
-    "001_Notes/2023/001_ComputerScience/003_Pseudocode.md",
-    "001_Notes/2023/001_ComputerScience/002_Binary.md",
-    "001_Notes/2023/001_ComputerScience/001_Intro.md",
     "Index.md",
     "001_Notes/2023/003_Specialist/Index.md",
     "001_Notes/2022/Index.md",
