@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_Notes/2023/004_Physics/002_Sig Fig + Uncertainty.md",
+                "file": "001_Notes/2023/004_Physics/001_Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/2023/004_Physics/002_Sig Fig + Uncertainty.md",
+                "file": "001_Notes/2023/004_Physics/001_Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +147,8 @@
   },
   "active": "d805410b5a8f9c02",
   "lastOpenFiles": [
-    "001_Notes/2023/Index.md",
     "001_Notes/2023/004_Physics/002_Sig Fig + Uncertainty.md",
+    "001_Notes/2023/Index.md",
     "Change Log.md",
     "001_Notes/2023/002_Economics/Index.md",
     "001_Notes/2023/004_Physics/Index.md",

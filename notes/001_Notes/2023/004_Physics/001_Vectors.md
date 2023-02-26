@@ -20,7 +20,7 @@ There are two ways to describe horizontal vectors:
 #### Vertical
 - Vectors are referenced to the vertical
 - Vectors are $0\degree\le x \le 90 \degree$
-- Eg 60$\degree$T = $30\degree$ up from the horizontal to the left
+- E.g. 60$\degree$T = $30\degree$ up from the horizontal to the left
 
 
 ### Vector Addition
